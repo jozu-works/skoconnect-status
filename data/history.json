@@ -219,26 +219,26 @@
     {
       "date": "2026-10-24",
       "component": "admin",
-      "up": 7,
-      "total": 7
+      "up": 8,
+      "total": 8
     },
     {
       "date": "2026-10-24",
       "component": "api",
-      "up": 7,
-      "total": 7
+      "up": 8,
+      "total": 8
     },
     {
       "date": "2026-10-24",
       "component": "ingestion",
-      "up": 7,
-      "total": 7
+      "up": 8,
+      "total": 8
     },
     {
       "date": "2026-10-24",
       "component": "marketing",
-      "up": 7,
-      "total": 7
+      "up": 8,
+      "total": 8
     }
   ]
 }
