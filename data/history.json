@@ -387,26 +387,26 @@
     {
       "date": "2026-10-31",
       "component": "admin",
-      "up": 4,
-      "total": 4
+      "up": 5,
+      "total": 5
     },
     {
       "date": "2026-10-31",
       "component": "api",
-      "up": 4,
-      "total": 4
+      "up": 5,
+      "total": 5
     },
     {
       "date": "2026-10-31",
       "component": "ingestion",
-      "up": 4,
-      "total": 4
+      "up": 5,
+      "total": 5
     },
     {
       "date": "2026-10-31",
       "component": "marketing",
-      "up": 4,
-      "total": 4
+      "up": 5,
+      "total": 5
     }
   ]
 }
