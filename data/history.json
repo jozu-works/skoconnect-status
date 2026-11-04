@@ -483,26 +483,26 @@
     {
       "date": "2026-11-04",
       "component": "admin",
-      "up": 2,
-      "total": 2
+      "up": 3,
+      "total": 3
     },
     {
       "date": "2026-11-04",
       "component": "api",
-      "up": 2,
-      "total": 2
+      "up": 3,
+      "total": 3
     },
     {
       "date": "2026-11-04",
       "component": "ingestion",
-      "up": 2,
-      "total": 2
+      "up": 3,
+      "total": 3
     },
     {
       "date": "2026-11-04",
       "component": "marketing",
-      "up": 2,
-      "total": 2
+      "up": 3,
+      "total": 3
     }
   ]
 }
