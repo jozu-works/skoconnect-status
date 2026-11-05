@@ -503,6 +503,30 @@
       "component": "marketing",
       "up": 4,
       "total": 4
+    },
+    {
+      "date": "2026-11-05",
+      "component": "admin",
+      "up": 1,
+      "total": 1
+    },
+    {
+      "date": "2026-11-05",
+      "component": "api",
+      "up": 1,
+      "total": 1
+    },
+    {
+      "date": "2026-11-05",
+      "component": "ingestion",
+      "up": 1,
+      "total": 1
+    },
+    {
+      "date": "2026-11-05",
+      "component": "marketing",
+      "up": 1,
+      "total": 1
     }
   ]
 }
