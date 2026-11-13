@@ -675,26 +675,26 @@
     {
       "date": "2026-11-12",
       "component": "admin",
-      "up": 3,
-      "total": 3
+      "up": 4,
+      "total": 4
     },
     {
       "date": "2026-11-12",
       "component": "api",
-      "up": 3,
-      "total": 3
+      "up": 4,
+      "total": 4
     },
     {
       "date": "2026-11-12",
       "component": "ingestion",
-      "up": 3,
-      "total": 3
+      "up": 4,
+      "total": 4
     },
     {
       "date": "2026-11-12",
       "component": "marketing",
-      "up": 3,
-      "total": 3
+      "up": 4,
+      "total": 4
     }
   ]
 }
