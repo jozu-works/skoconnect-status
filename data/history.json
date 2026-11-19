@@ -819,26 +819,26 @@
     {
       "date": "2026-11-18",
       "component": "admin",
-      "up": 3,
-      "total": 3
+      "up": 4,
+      "total": 4
     },
     {
       "date": "2026-11-18",
       "component": "api",
-      "up": 3,
-      "total": 3
+      "up": 4,
+      "total": 4
     },
     {
       "date": "2026-11-18",
       "component": "ingestion",
-      "up": 3,
-      "total": 3
+      "up": 4,
+      "total": 4
     },
     {
       "date": "2026-11-18",
       "component": "marketing",
-      "up": 3,
-      "total": 3
+      "up": 4,
+      "total": 4
     }
   ]
 }
