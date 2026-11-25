@@ -987,26 +987,26 @@
     {
       "date": "2026-11-25",
       "component": "admin",
-      "up": 17,
-      "total": 17
+      "up": 18,
+      "total": 18
     },
     {
       "date": "2026-11-25",
       "component": "api",
-      "up": 17,
-      "total": 17
+      "up": 18,
+      "total": 18
     },
     {
       "date": "2026-11-25",
       "component": "ingestion",
-      "up": 17,
-      "total": 17
+      "up": 18,
+      "total": 18
     },
     {
       "date": "2026-11-25",
       "component": "marketing",
-      "up": 17,
-      "total": 17
+      "up": 18,
+      "total": 18
     }
   ]
 }
