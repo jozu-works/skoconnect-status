@@ -1,8 +1,11 @@
 name: Probe and update status
 
 on:
-  schedule:
-    - cron: '*/15 * * * *'  # UTC; runs around the clock
+  # Scheduled probe moved to a local systemd timer on atlas-optiplex-3090 (2026-11-25):
+  # the every-15-min hosted run consumed ~2,300 Actions-minutes/month, exhausting the
+  # org's Free-plan 2,000-minute included quota and blocking ALL hosted Actions org-wide.
+  # Re-enable ONLY if the org gains a paid Actions plan or a self-hosted runner targets this repo.
+  # workflow_dispatch stays for manual hosted runs.
   workflow_dispatch: {}
 
 permissions:
