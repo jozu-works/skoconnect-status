@@ -1,6 +1,6 @@
 {
   "overall": "outage",
-  "updated_at": "2026-11-26T12:44:18-05:00",
+  "updated_at": "2026-11-26T12:45:00-05:00",
   "timezone": "America/Jamaica",
   "components": [
     {
@@ -11,7 +11,7 @@
       "up": false,
       "http_code": 0,
       "detail": "unreachable after 2 attempts (URLError: <urlopen error [Errno -3] Temporary failure in name resolution>)",
-      "checked_at": "2026-11-26T12:44:18-05:00",
+      "checked_at": "2026-11-26T12:45:00-05:00",
       "down_since": "2026-11-26T12:44:18-05:00"
     },
     {
@@ -22,7 +22,7 @@
       "up": false,
       "http_code": 0,
       "detail": "unreachable after 2 attempts (URLError: <urlopen error [Errno -3] Temporary failure in name resolution>)",
-      "checked_at": "2026-11-26T12:44:18-05:00",
+      "checked_at": "2026-11-26T12:45:00-05:00",
       "down_since": "2026-11-26T12:44:18-05:00"
     },
     {
@@ -33,7 +33,7 @@
       "up": false,
       "http_code": 0,
       "detail": "unreachable after 2 attempts (URLError: <urlopen error [Errno -3] Temporary failure in name resolution>)",
-      "checked_at": "2026-11-26T12:44:18-05:00",
+      "checked_at": "2026-11-26T12:45:00-05:00",
       "down_since": "2026-11-26T12:44:18-05:00"
     },
     {
@@ -44,7 +44,7 @@
       "up": false,
       "http_code": 0,
       "detail": "unreachable after 2 attempts (URLError: <urlopen error [Errno -3] Temporary failure in name resolution>)",
-      "checked_at": "2026-11-26T12:44:18-05:00",
+      "checked_at": "2026-11-26T12:45:00-05:00",
       "down_since": "2026-11-26T12:44:18-05:00"
     }
   ]
