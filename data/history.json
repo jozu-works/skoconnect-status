@@ -1012,25 +1012,25 @@
       "date": "2026-11-26",
       "component": "admin",
       "up": 42,
-      "total": 42
+      "total": 43
     },
     {
       "date": "2026-11-26",
       "component": "api",
       "up": 42,
-      "total": 42
+      "total": 43
     },
     {
       "date": "2026-11-26",
       "component": "ingestion",
       "up": 42,
-      "total": 42
+      "total": 43
     },
     {
       "date": "2026-11-26",
       "component": "marketing",
       "up": 42,
-      "total": 42
+      "total": 43
     }
   ]
 }

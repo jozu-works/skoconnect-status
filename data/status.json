@@ -1,6 +1,6 @@
 {
-  "overall": "operational",
-  "updated_at": "2026-11-26T10:15:20-05:00",
+  "overall": "outage",
+  "updated_at": "2026-11-26T12:44:18-05:00",
   "timezone": "America/Jamaica",
   "components": [
     {
@@ -8,44 +8,44 @@
       "name": "Marketing site",
       "description": "skoconnect.com public website",
       "url": "https://skoconnect.com/",
-      "up": true,
-      "http_code": 200,
-      "detail": "HTTP 200",
-      "checked_at": "2026-11-26T10:15:14-05:00",
-      "down_since": null
+      "up": false,
+      "http_code": 0,
+      "detail": "unreachable after 2 attempts (URLError: <urlopen error [Errno -3] Temporary failure in name resolution>)",
+      "checked_at": "2026-11-26T12:44:18-05:00",
+      "down_since": "2026-11-26T12:44:18-05:00"
     },
     {
       "id": "admin",
       "name": "Admin portal",
       "description": "School administrator web app (admin.skoconnect.com)",
       "url": "https://admin.skoconnect.com/",
-      "up": true,
-      "http_code": 200,
-      "detail": "HTTP 200",
-      "checked_at": "2026-11-26T10:15:20-05:00",
-      "down_since": null
+      "up": false,
+      "http_code": 0,
+      "detail": "unreachable after 2 attempts (URLError: <urlopen error [Errno -3] Temporary failure in name resolution>)",
+      "checked_at": "2026-11-26T12:44:18-05:00",
+      "down_since": "2026-11-26T12:44:18-05:00"
     },
     {
       "id": "api",
       "name": "App & API",
       "description": "Mobile app backend / Cloud Functions (health endpoint incl. Firestore round-trip)",
       "url": "https://us-central1-school-connect-enterprise.cloudfunctions.net/health",
-      "up": true,
-      "http_code": 200,
-      "detail": "healthy",
-      "checked_at": "2026-11-26T10:15:20-05:00",
-      "down_since": null
+      "up": false,
+      "http_code": 0,
+      "detail": "unreachable after 2 attempts (URLError: <urlopen error [Errno -3] Temporary failure in name resolution>)",
+      "checked_at": "2026-11-26T12:44:18-05:00",
+      "down_since": "2026-11-26T12:44:18-05:00"
     },
     {
       "id": "ingestion",
       "name": "Document ingestion pipeline",
       "description": "Cloud Run ingestion service (responding = up; root returns 405 by design)",
       "url": "https://document-ingestion-pltacimgka-uc.a.run.app/",
-      "up": true,
-      "http_code": 405,
-      "detail": "HTTP 405",
-      "checked_at": "2026-11-26T10:15:20-05:00",
-      "down_since": null
+      "up": false,
+      "http_code": 0,
+      "detail": "unreachable after 2 attempts (URLError: <urlopen error [Errno -3] Temporary failure in name resolution>)",
+      "checked_at": "2026-11-26T12:44:18-05:00",
+      "down_since": "2026-11-26T12:44:18-05:00"
     }
   ]
 }
