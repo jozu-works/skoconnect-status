@@ -1035,26 +1035,26 @@
     {
       "date": "2026-11-27",
       "component": "admin",
-      "up": 26,
-      "total": 26
+      "up": 27,
+      "total": 27
     },
     {
       "date": "2026-11-27",
       "component": "api",
-      "up": 26,
-      "total": 26
+      "up": 27,
+      "total": 27
     },
     {
       "date": "2026-11-27",
       "component": "ingestion",
-      "up": 26,
-      "total": 26
+      "up": 27,
+      "total": 27
     },
     {
       "date": "2026-11-27",
       "component": "marketing",
-      "up": 26,
-      "total": 26
+      "up": 27,
+      "total": 27
     }
   ]
 }
