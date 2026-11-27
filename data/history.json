@@ -1011,26 +1011,26 @@
     {
       "date": "2026-11-26",
       "component": "admin",
-      "up": 67,
-      "total": 69
+      "up": 68,
+      "total": 70
     },
     {
       "date": "2026-11-26",
       "component": "api",
-      "up": 67,
-      "total": 69
+      "up": 68,
+      "total": 70
     },
     {
       "date": "2026-11-26",
       "component": "ingestion",
-      "up": 67,
-      "total": 69
+      "up": 68,
+      "total": 70
     },
     {
       "date": "2026-11-26",
       "component": "marketing",
-      "up": 67,
-      "total": 69
+      "up": 68,
+      "total": 70
     }
   ]
 }
