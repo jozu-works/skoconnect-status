@@ -1059,26 +1059,26 @@
     {
       "date": "2026-11-28",
       "component": "admin",
-      "up": 11,
-      "total": 11
+      "up": 12,
+      "total": 12
     },
     {
       "date": "2026-11-28",
       "component": "api",
-      "up": 11,
-      "total": 11
+      "up": 12,
+      "total": 12
     },
     {
       "date": "2026-11-28",
       "component": "ingestion",
-      "up": 11,
-      "total": 11
+      "up": 12,
+      "total": 12
     },
     {
       "date": "2026-11-28",
       "component": "marketing",
-      "up": 11,
-      "total": 11
+      "up": 12,
+      "total": 12
     }
   ]
 }
